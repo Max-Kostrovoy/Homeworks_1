@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_5;
 
 import java.util.Arrays;
 
-public class L_5_DeepArray {
+public class DeepArray {
 
     public static void arrPrint(String arr[][]) {
         for (int i = 0; i < arr.length; i++) {

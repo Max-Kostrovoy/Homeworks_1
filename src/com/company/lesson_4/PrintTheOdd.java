@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_4;
 
-public class L_4_PrintTheOdd {
+public class PrintTheOdd {
 
     public static boolean checkInt(String str) throws NumberFormatException {
         try {

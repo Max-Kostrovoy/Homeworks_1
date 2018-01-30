@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_5;
 
-public class L_5_DivideByFive {
+public class DivideByFive {
 
     private static void checkDivision(int number, int target) {
         if (number % target == 0) {

@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_4;
 
 import java.util.Scanner;
 
-public class L_4_TheLeastModule {
+public class TheLeastModule {
 
     private static boolean flag = true;
 

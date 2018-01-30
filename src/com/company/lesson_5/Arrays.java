@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_5;
 
-public class L_5_Arrays {
+public class Arrays {
 
     public static void printLast(String[] args) {
         System.out.println(args[args.length - 1]);

@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_2;
 
-public class Lesson_2 {
+public class Literals {
 
     //This method returns the sum of two arguments
 

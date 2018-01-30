@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_3;
 
-public class L_3_TypeConvert {
+public class TypeConvert {
 
     private static char byteToChar(byte x) {
         return (char) x;

@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_5;
 
-public class L_5_MultiStringArray {
+public class MultiStringArray {
 
 
     public static void main(String[] args) {

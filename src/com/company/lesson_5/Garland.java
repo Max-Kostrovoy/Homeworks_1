@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_5;
 
 import java.util.Scanner;
 
-public class L_5_Garland {
+public class Garland {
     public static void choice() {
         int numb = (int) (Math.random() * 40);
         System.out.println("Random number is: " + numb);

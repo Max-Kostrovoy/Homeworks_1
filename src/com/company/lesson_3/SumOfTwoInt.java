@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_3;
 
 import java.util.Scanner;
 
-public class L_3_SumOfTwoInt {
+public class SumOfTwoInt {
 
     private static int inputNumber(Scanner sc) {
         System.out.print("Please input a number : ");

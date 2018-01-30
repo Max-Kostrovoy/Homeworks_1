@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_5;
 
 import java.util.Arrays;
 
-public class L_5_SortAndPrint {
+public class SortAndPrint {
     public static void sortBubbleIncrease(int[] array) {
         for (int i = 0; i < array.length; i++) {
             for (int j = array.length - 1; j > i; j--) {

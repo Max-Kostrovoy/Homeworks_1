@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_5;
 
-public class L_5_Factorial {
+public class Factorial {
     public static int factorial(int x) {
         int fact = 1;
         if (x == 0) {

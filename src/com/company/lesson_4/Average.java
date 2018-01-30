@@ -1,6 +1,6 @@
-package com.company;
+package com.company.lesson_4;
 
-public class L_4_Average {
+public class Average {
 
     private static void accumulator(String[] args) {
         double sum = 0;

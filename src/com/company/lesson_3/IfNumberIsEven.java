@@ -1,8 +1,8 @@
-package com.company;
+package com.company.lesson_3;
 
 import java.util.Scanner;
 
-public class L_3_IfNumberIsEven {
+public class IfNumberIsEven {
 
     private static boolean isEven(int x) {
         return x % 2 == 0;
