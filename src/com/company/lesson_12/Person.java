@@ -13,8 +13,7 @@ public class Person {
     }
 
     public String toString(Person person) {
-        String str = String.format("Mister %s is %s years old", person.fullName, person.age);
-        return str;
+        return String.format("Mister %s is %s years old", person.fullName, person.age);
     }
 
     Person() {
