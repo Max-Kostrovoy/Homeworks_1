@@ -22,7 +22,6 @@ public class SumOfTwoInt {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int num1 = inputNumber(sc);
         Scanner sc2 = new Scanner(System.in);
         int num2 = inputNumber(sc2);
