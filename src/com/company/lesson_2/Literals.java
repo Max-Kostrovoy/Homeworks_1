@@ -1,9 +1,6 @@
 package com.company.lesson_2;
 
 public class Literals {
-
-    //This method returns the sum of two arguments
-
     private static int sum(int x, int y) {
         return (x + y);
     }
